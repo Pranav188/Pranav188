@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranav188
 - 👀 I’m interested in learning computer science and programming
-- 🌱 I’m currently learning javascript...
+- 🌱 I’m currently learning react...
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 How to reach me ... r.pranav018@gmail.com
 - 😄 Pronouns: he/him
