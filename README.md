@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning computer science and programming
 - 🌱 I’m currently learning react...
 - 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ... pranav.018@outlook.com
+- 📫 How to reach me ... r.pranav12@icloud.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm left handed
 
