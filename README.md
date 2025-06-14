@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pranav188
-- 👀 I’m interested in learning computer science and programming
-- 🌱 I’m currently learning react...
-- 💞️ I’m looking to collaborate on frontend projects
+- 👀 I’m interested in learning programming
+- 🌱 I’m currently learning django...
+- 💞️ I’m looking to collaborate on backend projects
 - 📫 How to reach me ... r.pranav12@icloud.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm left handed
