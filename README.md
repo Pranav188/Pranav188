@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning django...
 - 💞️ I’m looking to collaborate on backend projects
-- 📫 How to reach me ... r.pranav12@icloud.com
+- 📫 How to reach me ... rajeshirkepranav12@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm left handed
 
